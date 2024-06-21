@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "John",
+    "Alter": 33,
+    "Aktiv": true,
+    "Geburtstag": "2000-05-15T00:00:00",
+  },
+  {
+    "Name": "Max",
+    "Alter": 44,
+    "Aktiv": false,
+    "Geburtstag": "2001-01-02T00:00:00"
+  },
+  {
+    "Name": "Sabine",
+    "Alter": 22,
+    "Aktiv": true,
+    "Geburtstag": "2002-03-04T:00:00:00"
+  }
+]

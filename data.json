@@ -1,0 +1,123 @@
+[
+    {
+        "id": "$uuid16",
+        "firstname": "John",
+        "lastname": "Doe",
+        "age": 25,
+        "course": "Computer Science",
+        "courseduration": 4,
+        "status": "X",
+        "gender": "m",
+        "dob": "19950101"
+    },
+    {
+        "id": "$uuid16",
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "age": 30,
+        "course": "Mathematics",
+        "courseduration": 3,
+        "status": "",
+        "gender": "f",
+        "dob": "19900215"
+    },
+    {
+        "id": "$uuid16",
+        "firstname": "David",
+        "lastname": "Johnson",
+        "age": 35,
+        "course": "Physics",
+        "courseduration": 5,
+        "status": "X",
+        "gender": "m",
+        "dob": "19850710"
+    },
+    {
+        "id": "$uuid16",
+        "firstname": "Emily",
+        "lastname": "Brown",
+        "age": 28,
+        "course": "Chemistry",
+        "courseduration": 4,
+        "status": "",
+        "gender": "f",
+        "dob": "19921120"
+    },
+    {
+        "id": "$uuid16",
+        "firstname": "Michael",
+        "lastname": "Miller",
+        "age": 32,
+        "course": "Biology",
+        "courseduration": 3,
+        "status": "X",
+        "gender": "m",
+        "dob": "19880405"
+    },
+    {
+        "id": "$uuid16",
+        "firstname": "Olivia",
+        "lastname": "Davis",
+        "age": 27,
+        "course": "English",
+        "courseduration": 2,
+        "status": "",
+        "gender": "f",
+        "dob": "19930925"
+    },
+    {
+        "id": "$uuid16",
+        "firstname": "Daniel",
+        "lastname": "Wilson",
+        "age": 31,
+        "course": "History",
+        "courseduration": 4,
+        "status": "X",
+        "gender": "m",
+        "dob": "19890312"
+    },
+    {
+        "id": "$uuid16",
+        "firstname": "Sophia",
+        "lastname": "Taylor",
+        "age": 29,
+        "course": "Geography",
+        "courseduration": 3,
+        "status": "",
+        "gender": "f",
+        "dob": "19910808"
+    },
+    {
+        "id": "$uuid16",
+        "firstname": "Matthew",
+        "lastname": "Anderson",
+        "age": 33,
+        "course": "Economics",
+        "courseduration": 4,
+        "status": "X",
+        "gender": "m",
+        "dob": "19870618"
+    },
+    {
+        "id": "$uuid16",
+        "firstname": "Ava",
+        "lastname": "Clark",
+        "age": 26,
+        "course": "Sociology",
+        "courseduration": 3,
+        "status": "",
+        "gender": "f",
+        "dob": "19941230"
+    },
+    {
+        "id": "$uuid16",
+        "firstname": "James",
+        "lastname": "Lee",
+        "age": 34,
+        "course": "Psychology",
+        "courseduration": 5,
+        "status": "X",
+        "gender": "m",
+        "dob": "19860522"
+    }
+]
