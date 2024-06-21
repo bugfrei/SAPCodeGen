@@ -1,5 +1,12 @@
 # Beispiel mit Chat GPT
 
+> Ja, ChatGPT kann auch direkt ABAP Code generieren. Aber
+> 1. ist dieser irgendwie immer anders
+> 2. muss man prüfen ob dieser auch in Ordnung ist
+> 3. ist er teils umständlich und/oder fehleranfällig
+> 
+> Bei einem einfachen Datenformat wie JSON hingegen ist ChatGPT sehr zuverlässig.
+
 Hier ein Beispiel, wie ich in 2 Minuten folgende Anfrage an ChatGPT gestellt habe. Im Screenshot wird nur ein Teil des JSON-Code gezeigt.
 
 ![ChatGPT Anfrage](pics/pic2.png)
