@@ -1,5 +1,10 @@
 # Suportis Code Generator
 
+## Beispiele
+
+[Mit Chat GPT ABAP Code für 10 Datensätze für einen RAP Codegenerator](chatgpt.md)
+
+
 ## Einrichten
 
 Einmaliges laden mit
@@ -103,3 +108,5 @@ CLASS zcl_datagenerator IMPLEMENTATION.
   ENDMETHOD.
 ENDCLASS.
 ```
+
+Beispiel mit [[chatgpt]].
