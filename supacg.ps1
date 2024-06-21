@@ -307,8 +307,15 @@ function ReadYesNo {
     }
     $response = Read-Host
     if ($NoDefault) {
-        return $response -eq "j"
+        $rv = $response -eq "j"
     } else {
-        return $response -ne "n"
+        $rv = $response -ne "n"
     }
+    if ($rv) {
+        Write-Host "Ja" -ForegroundColor Green
+    }
+    else {
+        Write-Host "Nein" -ForegroundColor Red
+    }
+    return $rv
 }
