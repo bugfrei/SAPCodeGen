@@ -109,4 +109,3 @@ CLASS zcl_datagenerator IMPLEMENTATION.
 ENDCLASS.
 ```
 
-Beispiel mit [[chatgpt]].

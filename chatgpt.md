@@ -6,8 +6,15 @@
 > 3. ist er teils umständlich und/oder fehleranfällig
 > 
 > Bei einem einfachen Datenformat wie JSON hingegen ist ChatGPT sehr zuverlässig.
+> Und der CodeGen erzeugt dann immer gleichen Code der auch funktioniert (vorausgesetzt das im JSON alles in Ordnung ist)
 
 Hier ein Beispiel, wie ich in 2 Minuten folgende Anfrage an ChatGPT gestellt habe. Im Screenshot wird nur ein Teil des JSON-Code gezeigt.
+
+> Theoretisch kann man auch nur den Code der Tabelle `key id : ...` ChatGPT übergeben, vielleicht noch ein Satz zur ID das dieser immer $uuid16 lauten soll, und der Rest könnte schon reichen.
+>
+> Ggfs. ein Datensatz in JSON als Beispiel erstellen und ChatGPT mit geben.
+>
+> Hier kann wenig Aufwand auch zum richtigen Ergebnis führen. Zu beachten ist nur das bei uuid16 immer $uuid16 im JSON steht da CodeGen dies entsprechend verwertet.
 
 ![ChatGPT Anfrage](pics/pic2.png)
 
